@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Gkts.Simulator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Gkts.Karargah\\Gkts.Karargah.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

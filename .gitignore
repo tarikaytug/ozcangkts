@@ -1,0 +1,10 @@
+# Node.js / Next.js
+node_modules/
+.next/
+.env
+.env.local
+
+# C# / .NET
+bin/
+obj/
+appsettings.Development.json

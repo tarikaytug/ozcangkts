@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Gkts.Karargah/Gkts.Karargah.csproj" />
+  <Project Path="Gkts.Simulator.csproj" />
+</Solution>

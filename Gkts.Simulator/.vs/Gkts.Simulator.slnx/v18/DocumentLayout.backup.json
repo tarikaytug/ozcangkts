@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarik\\source\\repos\\Gkts.Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187B4E97-ABBA-B85E-DAB6-992EDB771CBB}|..\\Gkts.Karargah\\Gkts.Karargah.csproj|c:\\users\\tarik\\source\\repos\\gkts.karargah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B4E97-ABBA-B85E-DAB6-992EDB771CBB}|..\\Gkts.Karargah\\Gkts.Karargah.csproj|c:\\users\\tarik\\source\\repos\\gkts.karargah\\controllers\\taktikvericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B4E97-ABBA-B85E-DAB6-992EDB771CBB}|..\\Gkts.Karargah\\Gkts.Karargah.csproj|c:\\users\\tarik\\source\\repos\\gkts.karargah\\taktikveripaketi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B4E97-ABBA-B85E-DAB6-992EDB771CBB}|..\\Gkts.Karargah\\Gkts.Karargah.csproj|c:\\users\\tarik\\source\\repos\\gkts.karargah\\karargahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B4E97-ABBA-B85E-DAB6-992EDB771CBB}|..\\Gkts.Karargah\\Gkts.Karargah.csproj|c:\\users\\tarik\\source\\repos\\gkts.karargah\\gkts.karargah.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Migrations\\20260601022549_Kurulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5A4D67-39B0-DB62-BA58-69267EFCB231}|Gkts.Simulator.csproj|c:\\users\\tarik\\source\\repos\\gkts.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5A4D67-39B0-DB62-BA58-69267EFCB231}|Gkts.Simulator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260601022549_Kurulum.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Migrations\\20260601022549_Kurulum.cs",
+              "RelativeDocumentMoniker": "..\\Gkts.Karargah\\Migrations\\20260601022549_Kurulum.cs",
+              "ToolTip": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Migrations\\20260601022549_Kurulum.cs",
+              "RelativeToolTip": "..\\Gkts.Karargah\\Migrations\\20260601022549_Kurulum.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T02:25:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gkts.Karargah",
+              "DocumentMoniker": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Gkts.Karargah.csproj",
+              "RelativeDocumentMoniker": "..\\Gkts.Karargah\\Gkts.Karargah.csproj",
+              "ToolTip": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Gkts.Karargah.csproj",
+              "RelativeToolTip": "..\\Gkts.Karargah\\Gkts.Karargah.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T02:25:08.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Gkts.Karargah\\Program.cs",
+              "ToolTip": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Program.cs",
+              "RelativeToolTip": "..\\Gkts.Karargah\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T02:20:28.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KarargahDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\KarargahDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Gkts.Karargah\\KarargahDbContext.cs",
+              "ToolTip": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\KarargahDbContext.cs",
+              "RelativeToolTip": "..\\Gkts.Karargah\\KarargahDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T02:20:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaktikVeriController.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Controllers\\TaktikVeriController.cs",
+              "RelativeDocumentMoniker": "..\\Gkts.Karargah\\Controllers\\TaktikVeriController.cs",
+              "ToolTip": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\Controllers\\TaktikVeriController.cs",
+              "RelativeToolTip": "..\\Gkts.Karargah\\Controllers\\TaktikVeriController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:51:10.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaktikVeriPaketi.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\TaktikVeriPaketi.cs",
+              "RelativeDocumentMoniker": "..\\Gkts.Karargah\\TaktikVeriPaketi.cs",
+              "ToolTip": "C:\\Users\\tarik\\source\\repos\\Gkts.Karargah\\TaktikVeriPaketi.cs",
+              "RelativeToolTip": "..\\Gkts.Karargah\\TaktikVeriPaketi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:50:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\source\\repos\\Gkts.Simulator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tarik\\source\\repos\\Gkts.Simulator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:35:14.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
